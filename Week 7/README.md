@@ -1,6 +1,9 @@
 ## Table of Contents
 * [Artwork Reference](#artwrok-reference)
 
+## VR Glove
+![Hi5VR](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/75217b342997d8ec54a66c1522238c61f9e48bfb/Week%207/VRGlove.png)
+
 ## Artwork Reference  
 ### Hive
 ![Hive](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/75217b342997d8ec54a66c1522238c61f9e48bfb/Week%207/Hive.png)
@@ -48,6 +51,7 @@ MetaSensorium responds to the social isolation pervasive to the COVID-19 pandemi
 In the Metaverse in the VR environment, how will hands shape people's cognition? If in the future we can enter the complete virtual reality like the Matrix or Ready Player One, how will our body generate a "philosophy of knowledge"?
 
 ## Reference
+https://hi5vrglove.com/store/hi5glove
 https://fifteen2020.bartlettarchucl.com/dfpi/hive  
 https://fifteen2020.bartlettarchucl.com/dfpi/hubbub  
 https://fifteen2020.bartlettarchucl.com/dfpi/inhibition  
