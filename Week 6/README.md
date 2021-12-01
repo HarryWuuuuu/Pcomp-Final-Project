@@ -1,5 +1,7 @@
 ## Table of Contents
 * [Theoretical Research](#theoretical-research)
+* [Power Glove](#power-glove)
+* [The Lady Glove](#the-lady-glove)
 * [Reference](#reference)
 
 ## Theoretical Research
@@ -19,11 +21,29 @@ If we wear gloves or use robotic arms to perform certain behaviors, such as carr
 
 ## Power Glove
 ![Power Glove](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/484b31af24ef662c36aa19c3b2c85dddc13cd2ec/Week%206/NES-Power-Glove.jpeg)
-* two ultrasonic speakers (transmitters) in the glove
-* three ultrasonic microphones (receivers) around the TV monitor
-* carbon-based flex sensors
+* Two ultrasonic speakers (transmitters) in the glove
+* Three ultrasonic microphones (receivers) around the TV monitor
+* Carbon-based flex sensors
 
+## The Lady Glove
+![TheLadyGlove](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/5efa6e578aaece298051b56d4874607201b56665/Week%206/The%20Lady%20Glove.jpeg)
+![TheLadyGlove1](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/5efa6e578aaece298051b56d4874607201b56665/Week%206/The%20Lady%20Glove1.jpeg)
+![TheLadyGlove2](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/5efa6e578aaece298051b56d4874607201b56665/Week%206/The%20Lady%20Glove2.jpeg)
+![TheLadyGlove3](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/5efa6e578aaece298051b56d4874607201b56665/Week%206/The%20Lady%20Glove3.jpeg)
+![TheLadyGlove4](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/5efa6e578aaece298051b56d4874607201b56665/Week%206/The%20Lady%20Glove4.jpeg)
+![TheLadyGlove5](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/5efa6e578aaece298051b56d4874607201b56665/Week%206/The%20Lady%20Glove5.jpeg)
+* Five microswitches
+* Four Hall effect transducers
+* Pressure pad
+* Resistive strips
+* Two ultrasonic receivers
+* Two accelerometers
+* A mercury switch
+* An accelerometer
 
 ## Reference
 Merleau-Ponty, M. (1945/1962). Phenomenology of Perception. Transl. by C. Smith. London: Routledge. P 105
-https://en.wikipedia.org/wiki/Power_Glove
+
+https://en.wikipedia.org/wiki/Power_Glove 
+
+https://sonami.net/portfolio/items/ladys-glove/
