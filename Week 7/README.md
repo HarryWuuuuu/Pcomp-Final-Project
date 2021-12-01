@@ -2,7 +2,7 @@
 * [Artwork Reference](#artwrok-reference)
 
 ## VR Glove
-![Hi5VR](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/75217b342997d8ec54a66c1522238c61f9e48bfb/Week%207/VRGlove.png)
+![Hi5VR](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/47261c46b2e7a446a02ea6655092a3bc55bc7915/Week%207/VR%20Glove.png)
 
 ## Artwork Reference  
 ### Hive
