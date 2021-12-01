@@ -1,8 +1,16 @@
 ## Table of Contents
-* [Artwork Reference](#artwrok-reference)
+* [VR Glove](#vr-glove)
+* [Artwork Reference](#artwork-reference)
+* [My Thinking](#my-thinking)
 
-## VR Glove
-![Hi5VR](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/47261c46b2e7a446a02ea6655092a3bc55bc7915/Week%207/VR%20Glove.png)
+## Virtual Reality
+### VR Glove
+![Hi5VR](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/47261c46b2e7a446a02ea6655092a3bc55bc7915/Week%207/VR%20Glove.png)  
+### Martix
+![Hi5VR](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/fa4f6a18ad735b77bfcfb63a46d040c62398d1e3/Week%207/Martix.png)  
+### Ready Player One
+![Ready Player One](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/fa4f6a18ad735b77bfcfb63a46d040c62398d1e3/Week%207/ReayPlayerOne.jpeg)  
+
 
 ## Artwork Reference  
 ### Hive
@@ -48,7 +56,20 @@ MetaSensorium responds to the social isolation pervasive to the COVID-19 pandemi
 
 ------------------------
 ## My Thinking
-In the Metaverse in the VR environment, how will hands shape people's cognition? If in the future we can enter the complete virtual reality like the Matrix or Ready Player One, how will our body generate a "philosophy of knowledge"?
+In the Metaverse in the VR environment, how will hands shape people's cognition? If in the future we can enter the complete virtual reality like the Matrix or Ready Player One, how will our body generate a "philosophy of knowledge"?  
+In virtual reality, we perceive the feedback brought by gloves through our hands. To some extent, we are cognizing the virtual world through gloves. But what role does the hand play in this? Is it still the interface through which we know the world? Especially if one day, 90% of our time is living in virtual reality.  
+If virtual hands or gloves become our way of knowing the world, have we transformed into a post-human being? Or that we are just transhuman, virtual hands or gloves are just tools to enhance our cognition of the world?
+
+## Project Plan
+I want to build a hand-based interface between humans and the world in virtual reality in the future. It will collect human hand movement information and transform it into tactile and visual expressions.  
+I hope that the experiencer can reconsider from the experience how the hands help us to recognize the world, and think about the way in which hands will help humans generate new knowledge in the future.   
+### Sensors(Input)
+* **Press Sensor:** The pressure sensor is responsible for collecting data on finger movement.
+* **PIR Motion Sensor:** PIR motion sensor is responsible for collecting data on wrist activity.  
+### Sensors(Output)
+* **LED Strip:** The led strip represents visual feedback. When the fingers are moving, the led strip will light up the corresponding light to establish a mapping relationship.
+* **Servo Motor:** Each finger will be connected to the servo motor with a thin wire. When the finger is moving, the servo motor will try to pull the finger back to its original position. This symbolizes that when we use gloves as our interface with the world in the future, the environment or the gloves themselves are interfering with human behavior. For people, it's more like adapting to a new body.
+* **Vibration Motor:** The vibration motor provides tactile feedback. When the PIR motion sensor detects hand movement, the vibration motor will provide a steady stream of tactile feedback. It symbolizes how the tactile senses shape people's consciousness when they perceive the world.
 
 ## Reference
 https://hi5vrglove.com/store/hi5glove
