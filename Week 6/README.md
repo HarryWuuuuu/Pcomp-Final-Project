@@ -18,6 +18,11 @@ Is this a unity of nature and human to some extent?
 If we wear gloves or use robotic arms to perform certain behaviors, such as carrying boxes, then in this process, is the hand still one of the ways we perceive the world? Or is it that gloves or robotic arms are one of the ways we perceive the world?
 
 ## Power Glove
+![Power Glove](https://github.com/HarryWuuuuu/Pcomp-Final-Project/blob/484b31af24ef662c36aa19c3b2c85dddc13cd2ec/Week%206/NES-Power-Glove.jpeg)
+* two ultrasonic speakers (transmitters) in the glove
+* three ultrasonic microphones (receivers) around the TV monitor
+* carbon-based flex sensors
+
 
 ## Reference
 Merleau-Ponty, M. (1945/1962). Phenomenology of Perception. Transl. by C. Smith. London: Routledge. P 105
